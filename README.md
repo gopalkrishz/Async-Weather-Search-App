@@ -1,5 +1,5 @@
 # the overall snapshot of this application is provided below:
-[Screenshot 2023-06-14 020356](https://github.com/gopalkrishz/Async-Weather-Search-App/assets/99976840/c08dcffa-2c20-4afb-b37e-8caccd4efa39)
+![Screenshot 2023-06-14 020356](https://github.com/gopalkrishz/Async-Weather-Search-App/assets/99976840/9e35e6f9-4f2e-4e51-81c4-ee9186e8816f)
 
 
 
